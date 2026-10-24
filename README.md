@@ -2,6 +2,10 @@ SPORTGEAR - Sports & Fitness Store
 
 Internship Task Link: https://www.freeinternships.in/web-development-internship/free-online-web-development-internship-sports-fitness-equipment-wd-ec-008.php
 
+Internship Task ID: WD-EC-008
+
+Student Code: DAS-EC-008
+
 GitHub Repository: (https://brokenwarrior00.github.io/sportsgear-sports-fitness/)
 
 ABOUT THE PROJECT:
