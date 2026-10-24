@@ -39,6 +39,7 @@ FEATURES:
         4. Project Structure
 
 sportgear-sports-fitness/
+
 │
 
 ├── index.html
@@ -52,6 +53,7 @@ sportgear-sports-fitness/
 │
 
 └── images/
+
     └── Product images
 
 HOW TO RUN THE PROJECT:
