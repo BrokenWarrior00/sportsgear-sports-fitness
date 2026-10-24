@@ -1,42 +1,42 @@
-SportGear - Sports & Fitness Store
+SPORTGEAR - Sports & Fitness Store
 
 Internship Task Link: https://www.freeinternships.in/web-development-internship/free-online-web-development-internship-sports-fitness-equipment-wd-ec-008.php
 
 GitHub Repository: https://github.com/your-username/sportgear-sports-fitness
 
-About the Project
+ABOUT THE PROJECT:
 
 SportGear is a simple sports and fitness equipment shopping website created as part of a web development internship task. It allows users to browse sports products and try basic shopping features.
 
 This project was made using basic HTML, CSS, and JavaScript as a beginner-level web development project.
 
-Features
+FEATURES:
 
-Display sports and fitness products
+1) Display sports and fitness products
 
-Search for products
+2) Search for products
 
-Filter products by category
+3) Filter products by category
 
-Add products to the shopping cart
+4) Add products to the shopping cart
 
-Add products to the wishlist
+5) Add products to the wishlist
 
-Demonstration checkout
+6) Demonstration checkout
 
-Basic order tracking
+7) Basic order tracking
 
-Store some shopping information using browser localStorage
+8) Store some shopping information using browser localStorage
 
-Technologies Used
+9) Technologies Used
 
-HTML
+        1. HTML
 
-CSS
+        2. CSS
 
-JavaScript
+        3. JavaScript
 
-Project Structure
+        4. Project Structure
 
 sportgear-sports-fitness/
 │
@@ -48,50 +48,50 @@ sportgear-sports-fitness/
 └── images/
     └── Product images
 
-How to Run the Project
+HOW TO RUN THE PROJECT:
 
-Download or clone this repository.
+    Download or clone this repository.
 
-Make sure index.html, style.css, and script.js are in the same folder.
+    Make sure index.html, style.css, and script.js are in the same folder.
 
-Keep the product images inside the images folder.
+    Keep the product images inside the images folder.
 
-Open index.html in your web browser.
+    Open index.html in your web browser.
 
-Explore the website and try its features.
+    Explore the website and try its features.
 
-Important Note
+    Important Note
 
-This is a demonstration project created for learning purposes. It does not use a real payment gateway or a live product database. Checkout and order tracking are demo features. Do not enter real payment information or sensitive personal details.
+    This is a demonstration project created for learning purposes. It does not use a real payment gateway or a live product database. Checkout and order tracking are demo features. Do not enter real payment information or sensitive personal details.
 
-What I Learned
+WHAT I LEARNED:
 
-Creating a webpage using HTML
+    1. Creating a webpage using HTML
 
-Styling a website using CSS
+    2. Styling a website using CSS
 
-Adding functionality using JavaScript
+    3. Adding functionality using JavaScript
 
-Displaying and filtering products
+    4. Displaying and filtering products
 
-Working with shopping cart features
+    5. Working with shopping cart features
 
-Using localStorage to save data in the browser
+    6. Using localStorage to save data in the browser
 
-Uploading project files to GitHub
+    7. Uploading project files to GitHub
 
-Future Improvements
+    8. Future Improvements
 
-Connect the website to a database
+    9. Connect the website to a database
 
-Add user registration and login
+    10. Add user registration and login
 
-Integrate a secure payment gateway
+    11. Integrate a secure payment gateway
 
-Improve the design for mobile devices
+    12. Improve the design for mobile devices
 
-Build a proper order management system
+    13. Build a proper order management system
 
-Author
+Author- ANNAMALAI K
 
 Created as a beginner web development internship project.
