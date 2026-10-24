@@ -54,7 +54,7 @@ sportgear-sports-fitness/
 
 └── images/
 
-    └── Product images
+       └── Product images
 
 HOW TO RUN THE PROJECT:
 
