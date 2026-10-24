@@ -2,7 +2,7 @@ SPORTGEAR - Sports & Fitness Store
 
 Internship Task Link: https://www.freeinternships.in/web-development-internship/free-online-web-development-internship-sports-fitness-equipment-wd-ec-008.php
 
-GitHub Repository: https://github.com/your-username/sportgear-sports-fitness
+GitHub Repository: (https://brokenwarrior00.github.io/sportsgear-sports-fitness/)
 
 ABOUT THE PROJECT:
 
@@ -40,11 +40,17 @@ FEATURES:
 
 sportgear-sports-fitness/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── README.md
+
 │
+
 └── images/
     └── Product images
 
